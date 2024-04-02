@@ -26,11 +26,6 @@ Here are some ideas to get you started:
 
 
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
-  
-</p>
-
 <!--
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer)
 -->
