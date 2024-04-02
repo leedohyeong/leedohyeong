@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p align = "center">
   I'm DoHyeong Lee, backend developer. <br>
   I usually use Python language for programming, <br>
-  and I am studying C, Python, and AI technology.
+  and I am studying Python, and AI technology.
 </p>  
 
 <h3 align = "center">💫 Tech Stacks 💫</h3>
