@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h3 align = "center">Hi there 👋 </h3>
 <p align = "center">
-  I'm DoHyeong Lee, backend developer. <br>
+  I'm DoHyeong Lee, AI Engineer. <br>
   I usually use Python language for programming, <br>
   and I am studying Python, and AI technology.
 </p>  
