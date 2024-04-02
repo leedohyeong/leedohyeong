@@ -24,13 +24,6 @@ Here are some ideas to get you started:
   and I am studying Python, and AI technology.
 </p>  
 
-<h3 align = "center">💫 Tech Stacks 💫</h3>
-<p align = "center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Inventor-0696D7?style=flat-square&logo=Autodesk&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-  </p>
 
 
 <p align="center">
